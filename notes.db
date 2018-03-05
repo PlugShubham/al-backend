@@ -1,0 +1,4 @@
+{"note_id":1,"subject":"Test Note","priority":"medium","note_message":"This is my test note.","date":"Sun Mar 04 2018 23:28:40 GMT+0530 (IST)","_id":"m0VkPq9QmiCVS8ks"}
+{"note_id":2,"subject":"Birthday","priority":"critical","note_message":"My girlfriends Birthday!!!!","date":"Mon Mar 05 2018 12:03:49 GMT+0530 (IST)","_id":"lJ2MruvADL4hgclV"}
+{"note_id":3,"subject":"test","priority":"low","note_message":"tet","date":"Mon Mar 05 2018 12:04:04 GMT+0530 (IST)","_id":"DcWYHkZ7pcPuBhBz"}
+{"$$deleted":true,"_id":"DcWYHkZ7pcPuBhBz"}
